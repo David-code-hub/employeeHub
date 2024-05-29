@@ -1,1 +1,1 @@
-Node.js x NUXT
+### Nuxt x Django
